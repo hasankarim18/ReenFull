@@ -558,3 +558,33 @@ footer.lower .right_lower_f ul li a:active {
 	text-align:left;
 	}
 }
+
+/************************
+my btn
+**************************/
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 7px;
+  right: 13px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color:#3F5973;
+  color: white;
+  cursor: pointer;
+  padding: 6px 12px;
+  border-radius: 4px;
+}
+
+#myBtn a {
+	color:#ced5dc;
+	
+}
+
+#myBtn a:hover {
+	color:#00BC9C;
+	
+}
