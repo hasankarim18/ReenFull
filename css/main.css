@@ -288,10 +288,9 @@ works starts here
 }
 
 .works .title h2{
-	color: rgb(80, 106, 133,0.9);
+    color: rgb(80, 106, 133,0.9);
     font-size: 2rem;
-    font-weight: 700;
-   
+    font-weight: 700;   
     letter-spacing: 0.2rem;
     line-height: 4.62rem;
     margin-bottom: 20px
